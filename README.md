@@ -57,17 +57,17 @@ The commercial Municipal ERP market features specialized financial and operation
 
 While full GASB-compliant fund accounting systems are predominantly commercial, open-source projects provide flexible foundations, civic engagement portals, smart city suites, and modular ERP building blocks. 🛠️
 
-*Projects are sorted by GitHub Star Count in descending order.* 🌟
+*Projects are sorted by GitHub Stars_Count in descending order.* 🌟
 
 | Repository & Stars ⭐ | Project Focus & Category 🎯 | Key Features & Architecture Description 📑 |
 | :--- | :--- | :--- |
-| **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | General-Purpose ERP & Community Extensions | Extensible open-source suite configurable for public sector operations; offers purchase orders, project management, and government accounting modules. |
-| **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full-Featured Open ERP (MIT License) | Python/Frappe based ERP with financial accounting, HR, payroll, inventory, and customizable asset management adaptable for smaller municipal bodies. |
-| **[Decidim](https://github.com/decidim/decidim)** [![GitHub stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers) | Participatory Governance & Budgeting | Modular participatory democracy framework enabling municipal governments to run civic budget voting, consultations, and public proposals. |
-| **[Consul Democracy](https://github.com/consuldemocracy/consuldemocracy)** [![GitHub stars](https://img.shields.io/github/stars/consuldemocracy/consuldemocracy?style=social&color=white)](https://github.com/consuldemocracy/consuldemocracy/stargazers) | Citizen Engagement & Open Budgeting | Leading open government framework used by hundreds of cities for participatory budgeting, open proposals, and collaborative citizen decision-making. |
-| **[eGov SmartCity Suite (DIGIT)](https://github.com/egovernments/DIGIT-OSS)** [![GitHub stars](https://img.shields.io/github/stars/egovernments/DIGIT-OSS?style=social&color=white)](https://github.com/egovernments/DIGIT-OSS/stargazers) | Municipal Services & Public Governance | Open-source platform for urban local bodies providing trade licensing, property tax, water charge management, and civic issue resolution. |
-| **[ERP-Government Prototype](https://github.com/NSTDA/ERP-Government)** [![GitHub stars](https://img.shields.io/github/stars/NSTDA/ERP-Government?style=social&color=white)](https://github.com/NSTDA/ERP-Government/stargazers) | Public Sector ERP Reference Architecture | Open prototype built for government organizations covering organizational structures, budget allocation workflows, and public procurement. |
-| **[CitizenOS FE](https://github.com/citizenos/citizenos-fe)** [![GitHub stars](https://img.shields.io/github/stars/citizenos/citizenos-fe?style=social&color=white)](https://github.com/citizenos/citizenos-fe/stargazers) | Civic Decision Making & e-Voting | E-decision-making frontend platform designed for public consultation, petition management, and local government consensus building. |
+| **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | General-Purpose ERP & Community Extensions | Extensible open-source suite configurable for public sector operations; offers purchase orders, project management, and government accounting modules. |
+| **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full-Featured Open ERP (MIT License) | Python/Frappe based ERP with financial accounting, HR, payroll, inventory, and customizable asset management adaptable for smaller municipal bodies. |
+| **[Decidim](https://github.com/decidim/decidim)** [![GitHub_Stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers) | Participatory Governance & Budgeting | Modular participatory democracy framework enabling municipal governments to run civic budget voting, consultations, and public proposals. |
+| **[Consul Democracy](https://github.com/consuldemocracy/consuldemocracy)** [![GitHub_Stars](https://img.shields.io/github/stars/consuldemocracy/consuldemocracy?style=social&color=white)](https://github.com/consuldemocracy/consuldemocracy/stargazers) | Citizen Engagement & Open Budgeting | Leading open government framework used by hundreds of cities for participatory budgeting, open proposals, and collaborative citizen decision-making. |
+| **[eGov SmartCity Suite (DIGIT)](https://github.com/egovernments/DIGIT-OSS)** [![GitHub_Stars](https://img.shields.io/github/stars/egovernments/DIGIT-OSS?style=social&color=white)](https://github.com/egovernments/DIGIT-OSS/stargazers) | Municipal Services & Public Governance | Open-source platform for urban local bodies providing trade licensing, property tax, water charge management, and civic issue resolution. |
+| **[ERP-Government Prototype](https://github.com/NSTDA/ERP-Government)** [![GitHub_Stars](https://img.shields.io/github/stars/NSTDA/ERP-Government?style=social&color=white)](https://github.com/NSTDA/ERP-Government/stargazers) | Public Sector ERP Reference Architecture | Open prototype built for government organizations covering organizational structures, budget allocation workflows, and public procurement. |
+| **[CitizenOS FE](https://github.com/citizenos/citizenos-fe)** [![GitHub_Stars](https://img.shields.io/github/stars/citizenos/citizenos-fe?style=social&color=white)](https://github.com/citizenos/citizenos-fe/stargazers) | Civic Decision Making & e-Voting | E-decision-making frontend platform designed for public consultation, petition management, and local government consensus building. |
 
 ---
 
@@ -85,7 +85,7 @@ While full GASB-compliant fund accounting systems are predominantly commercial, 
 
 1. **Fork** 🍴 this repository.
 2. Add your suggested SaaS product or open-source repo in `README.md` adhering to the tabular layout. 📝
-3. Ensure open-source entries include a valid GitHub link and star badge targeting the repo stargazers page. ⭐
+3. Ensure open-source entries include a valid GitHub link and Stars_Badge targeting the repo stargazers page. ⭐
 4. Submit a **Pull Request** 📬 with a brief summary of the addition.
 
 ---
