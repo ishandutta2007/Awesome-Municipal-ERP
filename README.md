@@ -1,35 +1,45 @@
-# Awesome Municipal ERP Ecosystem 🏛️
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Municipal ERP Banner" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Municipal ERP Ecosystem 🏛️ 🚀
 
-> **A curated showcase of Municipal ERP platforms, fund accounting suites, utility billing solutions, and open-source local government software.**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Municipal-ERP"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Welcome to the **Awesome Municipal ERP Ecosystem** repository. This resource tracks top commercial **SaaS platforms** and **open-source GitHub projects** built for cities, counties, towns, and local government entities. These solutions streamline public sector financial management, local government budgeting, government procurement, payroll, utility billing, human resources, and municipal operational management under strict public accounting rules (e.g., **GASB** guidelines).
+> **A curated showcase of Municipal ERP platforms, fund accounting suites, utility billing solutions, and open-source local government software.** 💡
 
----
-
-## 📌 Sector Overview & Market Dynamics
-
-> **Market Size & Structure**: The global GovTech & Municipal ERP software sector is estimated at **$12.5 Billion+** and expanding steadily. The market is **moderately fragmented**: enterprise leaders (such as Tyler Technologies and Infor) command large-scale county and city deployments, while a diverse field of specialized SaaS providers (OpenGov, CentralSquare, Springbrook, Edmunds GovTech) cater to mid-size and smaller local authorities.
-
----
-
-## 📑 Table of Contents
-
-- [SaaS / Hosted Municipal ERP Platforms](#saas--hosted-municipal-erp-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Features of Municipal ERPs](#key-features-of-municipal-erps)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+Welcome to the **Awesome Municipal ERP Ecosystem** repository! 🌟 This resource tracks top commercial **SaaS platforms** 💼 and **open-source GitHub projects** 🔓 built for cities, counties, towns, and local government entities. These solutions streamline public sector financial management 📊, local government budgeting 💰, government procurement 🛒, payroll 💳, utility billing 🚰⚡, human resources 👥, and municipal operational management under strict public accounting rules (e.g., **GASB** guidelines 📜).
 
 ---
 
-## 💼 SaaS / Hosted Municipal ERP Platforms
+## 📌 Sector Overview & Market Dynamics 📈
 
-The commercial Municipal ERP market features specialized financial and operational software designed for local government compliance, fund accounting, and utility billing.
+> **Market Size & Structure**: The global GovTech & Municipal ERP software sector is estimated at **$12.5 Billion+** 💵 and expanding steadily. The market is **moderately fragmented**: enterprise leaders (such as Tyler Technologies and Infor) command large-scale county and city deployments, while a diverse field of specialized SaaS providers (OpenGov, CentralSquare, Springbrook, Edmunds GovTech) cater to mid-size and smaller local authorities. 🌐
 
-| Platform / Vendor | Enterprise Size / Revenue / Valuation | Starting Pricing Tier | Free Tier / Trial Details | Key Capabilities & Description |
+---
+
+## 📑 Table of Contents 🧭
+
+- [SaaS / Hosted Municipal ERP Platforms](#saas--hosted-municipal-erp-platforms-)
+- [Open-Source GitHub Projects](#open-source-github-projects-)
+- [Key Features of Municipal ERPs](#key-features-of-municipal-erp-systems-)
+- [How to Contribute](#how-to-contribute-)
+- [Support & Sponsorship](#-support--sponsorship)
+- [Star History](#-star-history)
+- [Disclaimer](#-disclaimer)
+
+---
+
+## 💼 SaaS / Hosted Municipal ERP Platforms ☁️
+
+The commercial Municipal ERP market features specialized financial and operational software designed for local government compliance, fund accounting, and utility billing. 🏢
+
+| Platform / Vendor 🏛️ | Enterprise Size / Revenue / Valuation 📊 | Starting Pricing Tier 🏷️ | Free Tier / Trial Details 🎁 | Key Capabilities & Description 📝 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Tyler Munis / Enterprise ERP](https://www.tylertech.com/)** | **$2.38B Revenue** / **$13.8B Market Cap** (Public: TYL) | ~$150,000 / year (Enterprise Tier) | 30-day proof-of-concept / demo sandbox for qualified public agencies | Market-leading enterprise public-sector ERP suite covering fund accounting, payroll, HR, utility billing, and civic workflow integration. |
 | **[Infor Public Sector](https://www.infor.com/)** | **~$3.2B Revenue** / **~$13B Valuation** (Koch Subsidiary) | ~$200 / user / month (~$100,000+/yr entry) | 14-day guided enterprise cloud sandbox demo | Comprehensive cloud ERP platform delivering financials, procurement, asset management, and HR for large municipal governments. |
@@ -43,13 +53,13 @@ The commercial Municipal ERP market features specialized financial and operation
 
 ---
 
-## 🔓 Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects 💻
 
-While full GASB-compliant fund accounting systems are predominantly commercial, open-source projects provide flexible foundations, civic engagement portals, smart city suites, and modular ERP building blocks.
+While full GASB-compliant fund accounting systems are predominantly commercial, open-source projects provide flexible foundations, civic engagement portals, smart city suites, and modular ERP building blocks. 🛠️
 
-*Projects are sorted by GitHub Star Count in descending order.*
+*Projects are sorted by GitHub Star Count in descending order.* 🌟
 
-| Repository & Stars | Project Focus & Category | Key Features & Architecture Description |
+| Repository & Stars ⭐ | Project Focus & Category 🎯 | Key Features & Architecture Description 📑 |
 | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | General-Purpose ERP & Community Extensions | Extensible open-source suite configurable for public sector operations; offers purchase orders, project management, and government accounting modules. |
 | **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full-Featured Open ERP (MIT License) | Python/Frappe based ERP with financial accounting, HR, payroll, inventory, and customizable asset management adaptable for smaller municipal bodies. |
@@ -61,25 +71,43 @@ While full GASB-compliant fund accounting systems are predominantly commercial, 
 
 ---
 
-## 💡 Key Features of Municipal ERP Systems
+## 💡 Key Features of Municipal ERP Systems ⚙️
 
-1. **Governmental Fund Accounting**: Strict separation of resources across General, Special Revenue, Enterprise, and Capital Project funds in accordance with GASB standards.
-2. **Public Utility Billing**: Automated meter-to-cash workflows for water, electricity, gas, waste, and municipal services with tiered rates.
-3. **Budgetary Control & Encumbrance**: Real-time spending controls preventing purchase orders from exceeding allocated budget lines.
-4. **Public Sector HR & Payroll**: Complex municipal payroll rules including union wage steps, pension contribution tracking, and public employee benefits.
-5. **Civic Transparency Portals**: Open data publishing for city budgets, vendor payouts, and public council reporting.
-
----
-
-## 🤝 How to Contribute
-
-1. **Fork** this repository.
-2. Add your suggested SaaS product or open-source repo in `README.md` adhering to the tabular layout.
-3. Ensure open-source entries include a valid GitHub link and star badge targeting the repo stargazers page.
-4. Submit a **Pull Request** with a brief summary of the addition.
+1. **Governmental Fund Accounting** 🏛️: Strict separation of resources across General, Special Revenue, Enterprise, and Capital Project funds in accordance with GASB standards.
+2. **Public Utility Billing** 🚰: Automated meter-to-cash workflows for water, electricity, gas, waste, and municipal services with tiered rates.
+3. **Budgetary Control & Encumbrance** 📊: Real-time spending controls preventing purchase orders from exceeding allocated budget lines.
+4. **Public Sector HR & Payroll** 👥: Complex municipal payroll rules including union wage steps, pension contribution tracking, and public employee benefits.
+5. **Civic Transparency Portals** 🌐: Open data publishing for city budgets, vendor payouts, and public council reporting.
 
 ---
 
-## ⚠️ Disclaimer
+## 🤝 How to Contribute 🚀
 
-This repository is community-curated for informational purposes only and does not constitute formal procurement or compliance advice. Municipal financial systems manage public tax dollars and require thorough auditing against local, state, and national public accounting standards before deployment.
+1. **Fork** 🍴 this repository.
+2. Add your suggested SaaS product or open-source repo in `README.md` adhering to the tabular layout. 📝
+3. Ensure open-source entries include a valid GitHub link and star badge targeting the repo stargazers page. ⭐
+4. Submit a **Pull Request** 📬 with a brief summary of the addition.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you for visiting and supporting the **Awesome Municipal ERP Ecosystem** project! 🙏 If you find this curated collection helpful for your research, government tech stack evaluation, or civic projects, please consider supporting the ongoing maintenance and development:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork & Share** it with civic technologists, government IT leaders, and public finance officers!
+- ☕ **Buy me a coffee / Sponsor**: Support the project directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated! ❤️
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Municipal-ERP&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Municipal-ERP&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer 📜
+
+This repository is community-curated for informational purposes only and does not constitute formal procurement or compliance advice. Municipal financial systems manage public tax dollars and require thorough auditing against local, state, and national public accounting standards before deployment. 🛡️
